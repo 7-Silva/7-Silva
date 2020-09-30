@@ -3,7 +3,7 @@
 
  Sou um estudante de engenharia elétrica que apaixonou-se pelo mundo de  Machine Learning 👨🏽‍💻
 
-🌎**Buscando sempre o que comemorar**🧠
+🌎 **"Buscando sempre o que comemorar"** 🧠
 
 - 📍  Rio de Janeiro - RJ
 
