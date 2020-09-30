@@ -1,9 +1,9 @@
 ## Opa, e aí? 👋
-Eu sou Samuel da Silva 😁
+- Eu sou Samuel da Silva 😁
 
-Sou um estudante de engenharia elétrica que apaixonou-se pelo mundo de  Machine Learning 👨🏽‍💻
+- Sou um estudante de engenharia elétrica que apaixonou-se pelo mundo de  Machine Learning 👨🏽‍💻
 
-📍  Rio de Janeiro - RJ
+- 📍  Rio de Janeiro - RJ
 
 
 
