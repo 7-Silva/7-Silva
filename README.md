@@ -1,5 +1,4 @@
 ## Opa, e aí? 👋
- Eu sou Samuel da Silva 😁
 
  Sou um estudante de engenharia elétrica que apaixonou-se pelo mundo de  Machine Learning 👨🏽‍💻
 
