@@ -1,6 +1,6 @@
 ## Opa, e aí? 👋
 
- Sou um estudante de engenharia elétrica que apaixonou-se pelo mundo de  Machine Learning 👨🏽‍💻
+ Sou um estudante de engenharia elétrica que apaixonou-se pelo mundo da programação 👨🏽‍💻
 
 🌎 **"Buscando sempre o que comemorar"** 🧠
 
