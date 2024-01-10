@@ -21,7 +21,7 @@
 
 
 ## Estatísticas GitHub
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&hide_title=true&count_private=true)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=7-Silva&show_icons=true&hide_title=true&count_private=true)
 
 ## Conecte-se comigo
 - [LinkedIn](https://www.linkedin.com/in/7-silva/)
