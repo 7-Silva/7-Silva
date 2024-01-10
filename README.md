@@ -1,3 +1,34 @@
+# Olá, eu sou [Seu Nome] 👋
+
+## Sobre mim
+- 👨‍💻 Desenvolvedor apaixonado
+- 🌐 Explorando o mundo da programação web
+- 🎓 Estudante de [Seu Curso ou Área de Interesse]
+- 📚 Aprendendo constantemente
+
+## Habilidades
+- 💻 Linguagens de programação: [Liste suas linguagens]
+- 🚀 Tecnologias: [Liste suas tecnologias]
+
+## Projetos
+- 🚗 [Nome do Projeto 1](link do projeto): Breve descrição
+- 🌐 [Nome do Projeto 2](link do projeto): Breve descrição
+- ⚙️ [Nome do Projeto 3](link do projeto): Breve descrição
+
+## Estatísticas GitHub
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&hide_title=true&count_private=true)
+
+## Conecte-se comigo
+- [LinkedIn](seu-linkedin)
+- [Twitter](seu-twitter)
+
+## Agradecimentos
+Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e entrar em contato.
+
+----------------------------------------------
+
+
+
 ## Opa, e aí? 👋
 
  Sou um estudante de engenharia elétrica que apaixonou-se pelo mundo da programação 👨🏽‍💻
