@@ -16,9 +16,7 @@
 - 👨‍💻 Experiência anterior como desenvolvedor React, focado no desenvolvimento de páginas web
 
 ## Projetos
-- 🚗 [Nome do Projeto 1](link do projeto): Breve descrição
-- 🌐 [Nome do Projeto 2](link do projeto): Breve descrição
-
+- 🚗 [Previsão do tempo](https://github.com/7-Silva/flutter_previsao_tempo): Um app feito em flutter de previsão do tempo
 
 ## Estatísticas GitHub
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=7-Silva&show_icons=true&hide_title=true&count_private=true)
